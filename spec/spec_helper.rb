@@ -2,6 +2,7 @@
 require 'coveralls'
 require 'simplecov'
 require "./app/models/link"
+require "./app/app"
 
 SimpleCov.formatters = [
   SimpleCov::Formatter::HTMLFormatter,
