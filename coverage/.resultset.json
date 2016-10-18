@@ -1,6 +1,37 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/laszlobogacsi/Desktop/MakersAcademy/bookmark_manager/day1/bookmark-manager/app/app.rb": [
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        2,
+        2,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null
+      ],
       "/Users/laszlobogacsi/Desktop/MakersAcademy/bookmark_manager/day1/bookmark-manager/spec/features/link_spec.rb": [
         null,
         1,
@@ -15,6 +46,6 @@
         null
       ]
     },
-    "timestamp": 1476789967
+    "timestamp": 1476793016
   }
 }

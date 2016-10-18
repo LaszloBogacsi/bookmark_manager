@@ -1,5 +1,7 @@
+ENV["RACK_ENV"] ||= "development" # the app runs in development mode by default
 require 'sinatra/base'
 require_relative './models/link'
+
 
 
 class BookmarkManager < Sinatra::Base
